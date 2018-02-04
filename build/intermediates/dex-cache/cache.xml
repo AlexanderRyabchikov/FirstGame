@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/skender/AndroidProject/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19750edde1d8c9e7e9f599562c5a0b247cfceda1">
+        <dex dex="/home/skender/AndroidProject/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86a127f7a42d2e4f193972feb99bc96988820eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/skender/AndroidProject/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/skender/AndroidProject/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f8bb2d652c465a21b0be794d4aa96a83eedde35/classes.dex" />
+    </item>
+
+</items>

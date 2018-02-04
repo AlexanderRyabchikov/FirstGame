@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/skender/AndroidProject/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/skender/.android/build-cache/26bf221f55483e12ced453142c0dfac56608543a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/skender/.android/build-cache/26bf221f55483e12ced453142c0dfac56608543a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
